@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Workout Tracker</string>
+    <string name="workout_title_hint">Enter a title for the workout.</string>
+    <string name="workout_title_label">Title</string>
+    <string name="workout_details_label">Details</string>
+    <string name="at_sign">\@</string>
+    <string name="dialog_time_title">Select time of workout</string>
+    <string name="dialog_date_title">Select workout date</string>
+    <string name="dialog_image_title">Image of workout</string>
+    <string name="save_button">Save</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="submit_text">Submit</string>
+    <string name="workout_report">%1$s!
+        This workout was on %2$s at %3$s. %4$s, and %5$s
+    </string>
+    <string name="workout_report_suspect">the suspect is %s.</string>
+    <string name="workout_report_subject">Workout Summary</string>
+    <string name="send_report">Send workout report via</string>
+
+    <!-- Toolbar -->
+    <string name="new_workout">New workout</string>
+    <string name="delete_workout">Delete workout</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$s workout</item>
+        <item quantity="other">%1$s workouts</item>
+    </plurals>
+
+    <!-- Toast messages -->
+    <string name="toast_delete_workout">Workout has been deleted</string>
+
+    <!-- Empty List view -->
+    <string name="empty_view_text_view">No workouts yet! Get off your couch</string>
+    <string name="empty_view_add_button">Create new workout</string>
+
+</resources>
